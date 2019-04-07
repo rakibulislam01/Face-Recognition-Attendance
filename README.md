@@ -16,7 +16,7 @@ YouTube link: https://youtu.be/ss3p91Zk9k4
 ![alt text](https://github.com/rakibulislam01/Face-Recognition-Attendance/blob/master/Project%20Screenshot/Recognition%20Face%20.png)
 
 ### Recognition Multi Face
-![alt text](https://github.com/rakibulislam01/Face-Recognition-Attendance/blob/master/Project%20Screenshot/Recognition%20Multi%20Face.omg)
+![alt text](https://github.com/rakibulislam01/Face-Recognition-Attendance/blob/master/Project%20Screenshot/Recognition%20Multi%20Face.png)
 
 ### Admin Site
-![alt text](https://github.com/rakibulislam01/Face-Recognition-Attendance/blob/master/Project%20Screenshot/Admin%20Panel.omg)
+![alt text](https://github.com/rakibulislam01/Face-Recognition-Attendance/blob/master/Project%20Screenshot/Admin%20Panel.png)
